@@ -91,6 +91,7 @@
         <div class="container">
             <div class="row">
                 <div class="title-area">
+                <h1>Tes Ngepull</h1>
                     <h2 id="Tentang">Tentang Kami</h2>
                     <div class="separator separator-danger">✻</div>
                     <p class="description">Sopan.id adalah Startup yang fokus pada edukasi internet dan bersosial media yang sehat dan juga fokus pada pengembangan aplikasi pemfilteran konten yang tidak sesuai dengan etika dan norma kesopanan di Indonesia.</p>
